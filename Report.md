@@ -1,4 +1,4 @@
-# 強化學習作業：Q-learning 與 SARSA 在 Cliff Walking 的比較
+# 強化學習報告：Q-learning 與 SARSA 在 Cliff Walking 的比較
 
 ## 一、作業目的
 本作業旨在實作並比較兩種經典強化學習演算法——Q-learning（離策略）與 SARSA（同策略）。透過在「Cliff Walking」（懸崖漫步）環境中使用相同的超參數設定，觀察並分析這兩種演算法的學習行為、收斂特性，以及最終收斂策略的差異。
